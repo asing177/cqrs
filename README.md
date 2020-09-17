@@ -1,0 +1,2 @@
+# cqrs
+CQRS stands for Command Query Responsibility Segregation.
